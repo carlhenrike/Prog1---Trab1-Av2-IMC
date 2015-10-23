@@ -25,7 +25,7 @@ int main() {
 
 	
 	{
-	   printf("Seu imc e: %.2f\nSeu esta Peso Ideal\n",imc);	
+	   printf("Seu imc e: %.2f\nSeu Peso esta Ideal\n",imc);	
 	  	
 	}
 	
